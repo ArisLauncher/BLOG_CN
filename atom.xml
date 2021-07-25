@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.arislauncher.cn</id>
+    <title>Aris官方博客</title>
+    <updated>2021-07-25T10:22:16.432Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.arislauncher.cn"/>
+    <link rel="self" href="https://blog.arislauncher.cn/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://blog.arislauncher.cn/images/avatar.png</logo>
+    <icon>https://blog.arislauncher.cn/favicon.ico</icon>
+    <rights>All rights reserved 2021, Aris官方博客</rights>
+    <entry>
+        <title type="html"><![CDATA[错误日志上传通道&教程]]></title>
+        <id>https://blog.arislauncher.cn/post/23/</id>
+        <link href="https://blog.arislauncher.cn/post/23/">
+        </link>
+        <updated>2021-07-25T08:59:54.000Z</updated>
+        <content type="html"><![CDATA[<h4 id="说明">说明</h4>
+<p>请将错误日志保存为<code>txt</code>或者<code>word</code>文档上传到以下百度网盘内<br>
+链接：https://pan.baidu.com/disk/main#/transfer/send?surl=ACsAAAAAAAlsTg<br>
+此收集有效期截止到<code>2021年8月11日22:02</code></p>
+<h4 id="文档格式">文档格式</h4>
+<p>用户id：（手机号登录请填写手机号）<br>
+手机型号：（小米6）<br>
+系统版本：（MIUI 8.0）<br>
+安卓版本：（Android 6.0）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[名片ID获取方式]]></title>
+        <id>https://blog.arislauncher.cn/post/11/</id>
+        <link href="https://blog.arislauncher.cn/post/11/">
+        </link>
+        <updated>2021-07-25T08:59:26.000Z</updated>
+        <content type="html"><![CDATA[<p>1、输入config指令进入Aris控制台</p>
+<p>2.将页面拉到底部能看到&quot;账号&quot;部分，Invitation Code 即为ID；点击ID即可复制到剪贴板。<br>
+<img src="https://i.4399.live/2021/01/05/4a5548719d7be.jpg#vwid=1080&amp;vhei=2060" alt="微信图片_20200719123108.jpg" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米设置默认桌面方法]]></title>
+        <id>https://blog.arislauncher.cn/post/17/</id>
+        <link href="https://blog.arislauncher.cn/post/17/">
+        </link>
+        <updated>2021-07-25T08:59:01.000Z</updated>
+        <content type="html"><![CDATA[<p>在此说一下，只要用了这个方法，所有之前不能设为默认桌面的主题也可以用上了！也就是说可以忽略掉白名单拦截直接设置！<br>
+Aris终端桌面本体本来就在白名单上，所以不需要用此方法也能行！我只是用它做个方法演示！<br>
+唠叨一大堆总之一句话，按照视频里的步骤可以将所有aris的主题都设为默认桌面！</p>
+<p>视频教程地址：<br>
+https://b23.tv/JfhepV</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[兑换码使用方法]]></title>
+        <id>https://blog.arislauncher.cn/post/10/</id>
+        <link href="https://blog.arislauncher.cn/post/10/">
+        </link>
+        <updated>2021-07-25T08:56:10.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>目的：把兑换码绑定到手机号或微信号</strong></p>
+<p>进入config依次点击：</p>
+<p>兑换（拉到最底部可见）－输入兑换码兑换－之后会蹦出登录框，选择微信/手机号登录（推荐使用微信登录）</p>
+]]></content>
+    </entry>
+</feed>
